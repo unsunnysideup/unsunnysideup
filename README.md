@@ -1,10 +1,9 @@
 ## hey there 👋  
-i'm a rising junior with interests at the intersection of data science, machine learning, and UX design. i love exploration across many topics and fields, so analyzing/predicting data and bringing stylistic analytical platforms are just my thing. 
+I’m a current junior with interests in data science, web and app development. I’m always looking to explore new topics across different fields and turn my ideas and visions into reality through technology.
 
 ## things about me  
-🔭 i'm currently working on a customer segmentation analysis comparing groupings done by RFM vs. machine learning through kmeans  
-🌱 i'm currently self-learning foundational concepts of UX design   
+🔭 i'm currently building mini android apps from what I've learned in my mobile software development course 
 📫 how to reach me: tsun28@amherst.edu   
 😄 pronouns: she/her  
-⚡ fun fact: i will be studying away in hungary!   
+⚡ fun fact: i am studying away in hungary!   
  
